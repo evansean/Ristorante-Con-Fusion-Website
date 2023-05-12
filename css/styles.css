@@ -58,7 +58,7 @@ body {
   background-color: #512DA8;
   color: floralwhite; }
   .modal .modal-header .close {
-    color: red; }
+    color: floralwhite; }
 
 .modal .modal-body {
   background-color: #D1C4E9; }
